@@ -9,6 +9,10 @@ Proposed full-day workshop at the Fifth IEEE International Conference on Mobilit
 
 Autonomous physical systems have the potential to transform transportation, manufacturing, and critical infrastructure by enabling machines to make and execute decisions under changing physical conditions. Advances in sensing, embedded computing, and control are extending the range of tasks these systems can undertake, from operations in structured environments to those that require continuous adaptation to uncertainty. Realizing these capabilities depends on the data, computing, and communication infrastructure that determines which physical states a system can observe, which decisions it can compute, and how reliably it can translate those decisions into action.
 
+![An autonomous vehicle sensing its surroundings on a mountain road](proposal-figure.jpg)
+
+*Figure 1. An autonomous vehicle sensing its surroundings on a mountain road. Data, computing, and communication infrastructure determine what such a system can observe, decide, and do.*
+
 The dynamics of a physical task impose coupled requirements on data fidelity and freshness, computational throughput, and communication latency, all of which must be sustained within the platform’s energy and resource budgets. These dependencies motivate a common research agenda across data systems, computer architecture, and networking to establish how design decisions at each layer affect the performance, dependability, and operating limits of the complete physical system.
 
 D-CAPS brings together researchers and practitioners to advance the design, integration, and evaluation of infrastructure within individual platforms and across multiple systems, including general-purpose architectures and services with potential applications to autonomous physical systems. Co-location with IEEE MOST provides a forum for examining these infrastructure questions across land, air, and maritime mobility, where differences in physical dynamics, resource availability, and operating conditions can reveal which design principles generalize and where platform-specific solutions are necessary.
