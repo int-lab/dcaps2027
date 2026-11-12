@@ -5,7 +5,7 @@
 April 4, 2027 · Cal Poly Pomona, Pomona, California, USA\
 Proposed workshop at the Fifth IEEE International Conference on Mobility: Operations, Services, and Technologies (IEEE MOST 2027)
 
-**Proposed paper submission deadline: February 12, 2027** · [Submit through D-CAPS HotCRP](https://dcaps.hotcrp.com/)
+**Proposed paper submission deadline: February 12, 2027** · [Submit through D-CAPS HotCRP](https://dcaps2027.hotcrp.com/)
 
 Workshop website: [int-lab.github.io/dcaps2027](https://int-lab.github.io/dcaps2027/)
 
@@ -47,7 +47,7 @@ Submit a PDF of up to **six pages** in the **double-column IEEE conference forma
 
 **Single-blind review.** Include author names and affiliations in the manuscript. Reviewers will see the author list, and their identities will remain confidential.
 
-Submit original, unpublished work that is not under review at another archival venue. With the approval of all authors, enter the title, abstract, complete author list, affiliations, and conflicts of interest in the submission system. Direct requests for post-deadline changes to the workshop co-chairs. [D-CAPS submission site](https://dcaps.hotcrp.com/)
+Submit original, unpublished work that is not under review at another archival venue. With the approval of all authors, enter the title, abstract, complete author list, affiliations, and conflicts of interest in the submission system. Direct requests for post-deadline changes to the workshop co-chairs. [D-CAPS submission site](https://dcaps2027.hotcrp.com/)
 
 ## Review and publication
 

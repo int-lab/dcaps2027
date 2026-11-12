@@ -52,7 +52,7 @@ Industry panelists will discuss which infrastructure constraints shaped a deploy
 
 Authors will submit original papers of up to six pages in the double-column IEEE conference template. The limit includes references and all other content. D-CAPS will use single-blind review. Authors will identify themselves on the manuscript, and reviewer identities will remain confidential.
 
-The chairs plan to manage submissions and reviews through the D-CAPS HotCRP site ([dcaps.hotcrp.com](https://dcaps.hotcrp.com/)) and assign at least three independent reviews to every paper. Reviewers will assess originality, technical soundness, relevance to autonomous physical systems, and the evidence supporting the claims. Early-stage work may establish feasibility through analysis, simulation, or a preliminary experiment.
+The chairs plan to manage submissions and reviews through the D-CAPS HotCRP site ([dcaps2027.hotcrp.com](https://dcaps2027.hotcrp.com/)) and assign at least three independent reviews to every paper. Reviewers will assess originality, technical soundness, relevance to autonomous physical systems, and the evidence supporting the claims. Early-stage work may establish feasibility through analysis, simulation, or a preliminary experiment.
 
 Authors, reviewers, and chairs will declare conflicts, including institutional affiliations, recent collaborations, and advising relationships. An unconflicted chair will oversee assignments, discussion, and decisions for each paper. If all chairs are conflicted, the IEEE MOST workshop chairs will be asked to designate an independent decision maker.
 
