@@ -11,7 +11,7 @@ Autonomous physical systems have the potential to transform transportation, manu
 
 ![Autonomous physical systems connected to edge and cloud infrastructure](proposal-figure.jpg)
 
-*Figure 1. Autonomous vehicles, aerial and maritime systems, and factory robots connected through roadside, cellular, and satellite links to edge and cloud computing and data infrastructure. These layers determine what each system can observe, decide, and do.*
+*Figure 1. Autonomous vehicles, aerial and maritime systems, humanoid and mobile manipulator robots, and factory automation connected through roadside, cellular, and satellite links to edge and cloud computing and data infrastructure. These layers determine what each system can observe, decide, and do.*
 
 The dynamics of a physical task impose coupled requirements on data fidelity and freshness, computational throughput, and communication latency, all of which must be sustained within the platform’s energy and resource budgets. These dependencies motivate a common research agenda across data systems, computer architecture, and networking to establish how design decisions at each layer affect the performance, dependability, and operating limits of the complete physical system.
 
