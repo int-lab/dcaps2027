@@ -3,9 +3,9 @@
 **International Workshop on Data, Computing, and Communication Infrastructure for Autonomous Physical Systems**
 
 April 4, 2027 · Cal Poly Pomona, Pomona, California, USA\
-Proposed workshop at the Fifth IEEE International Conference on Mobility: Operations, Services, and Technologies (IEEE MOST 2027)
+Workshop at the Fifth IEEE International Conference on Mobility: Operations, Services, and Technologies (IEEE MOST 2027)
 
-**Proposed paper submission deadline: February 12, 2027** · [Submit through D-CAPS HotCRP](https://dcaps2027.hotcrp.com/)
+**Paper submission deadline: February 12, 2027** · [Submit through D-CAPS HotCRP](https://dcaps2027.hotcrp.com/)
 
 Workshop website: [int-lab.github.io/dcaps2027](https://int-lab.github.io/dcaps2027/)
 
@@ -36,7 +36,7 @@ We welcome foundational research, early results, prototype systems, measurement 
 
 | Milestone               | Date              |
 | ----------------------- | ----------------- |
-| Paper submission (proposed) | February 12, 2027 |
+| Paper submission        | February 12, 2027 |
 | Author notification     | February 28, 2027 |
 | Camera-ready manuscript | To be confirmed   |
 | In-person workshop      | April 4, 2027     |
