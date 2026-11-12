@@ -73,7 +73,7 @@ The workshop website at [int-lab.github.io/dcaps2027](https://int-lab.github.io/
 ## Steering committee
 
 - **Weisong Shi**, University of Delaware
-- **Onur Altintas**, Head of InfoTech Labs, Toyota North America R&D
+- **Onur Altintas**, Toyota North America R&D
 
 ## TPC members
 

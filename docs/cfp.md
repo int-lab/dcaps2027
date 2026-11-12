@@ -63,7 +63,7 @@ At least one author of each accepted paper must register and present in person. 
 ## Steering committee
 
 - **Weisong Shi**, University of Delaware
-- **Onur Altintas**, Head of InfoTech Labs, Toyota North America R&D
+- **Onur Altintas**, Toyota North America R&D
 
 ## TPC members
 
