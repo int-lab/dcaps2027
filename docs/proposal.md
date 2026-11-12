@@ -78,7 +78,6 @@ The workshop website at [int-lab.github.io/dcaps2027](https://int-lab.github.io/
 ## TPC members
 
 - **Zheng Dong**, Wayne State University
-- **Qi Chen**, Toyota Motor North America
 - **Ahan Kak**, Nokia Bell Labs
 - **Haoxin Wang**, Georgia State University
 

@@ -68,7 +68,6 @@ At least one author of each accepted paper must register and present in person. 
 ## TPC members
 
 - **Zheng Dong**, Wayne State University
-- **Qi Chen**, Toyota Motor North America
 - **Ahan Kak**, Nokia Bell Labs
 - **Haoxin Wang**, Georgia State University
 
