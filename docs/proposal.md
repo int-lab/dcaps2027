@@ -62,7 +62,7 @@ Upon acceptance, the organizers will issue the CFP by December 10, 2026, and cir
 
 We request a February 12, 2027 paper submission deadline. Author notification is scheduled for February 28, 2027. The co-chairs will confirm the camera-ready deadline with the IEEE MOST publication team.
 
-The workshop website at [int-lab.github.io/dcaps2027](https://int-lab.github.io/dcaps2027/) hosts the call for papers, the proposed program, and downloadable materials.
+The workshop website at [int-lab.github.io/dcaps2027](https://int-lab.github.io/dcaps2027/) hosts the call for papers, the proposed program, and organizer information.
 
 ## Workshop co-chairs
 
