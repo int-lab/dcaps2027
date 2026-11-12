@@ -9,9 +9,9 @@ Proposed full-day workshop at the Fifth IEEE International Conference on Mobilit
 
 Autonomous physical systems have the potential to transform transportation, manufacturing, and critical infrastructure by enabling machines to make and execute decisions under changing physical conditions. Advances in sensing, embedded computing, and control are extending the range of tasks these systems can undertake, from operations in structured environments to those that require continuous adaptation to uncertainty. Realizing these capabilities depends on the data, computing, and communication infrastructure that determines which physical states a system can observe, which decisions it can compute, and how reliably it can translate those decisions into action.
 
-![An autonomous vehicle sensing its surroundings on a mountain road](proposal-figure.jpg)
+![Autonomous physical systems connected to edge and cloud infrastructure](proposal-figure.jpg)
 
-*Figure 1. An autonomous vehicle sensing its surroundings on a mountain road. Data, computing, and communication infrastructure determine what such a system can observe, decide, and do.*
+*Figure 1. Autonomous vehicles, aerial and maritime systems, and factory robots connected through roadside, cellular, and satellite links to edge and cloud computing and data infrastructure. These layers determine what each system can observe, decide, and do.*
 
 The dynamics of a physical task impose coupled requirements on data fidelity and freshness, computational throughput, and communication latency, all of which must be sustained within the platform’s energy and resource budgets. These dependencies motivate a common research agenda across data systems, computer architecture, and networking to establish how design decisions at each layer affect the performance, dependability, and operating limits of the complete physical system.
 
