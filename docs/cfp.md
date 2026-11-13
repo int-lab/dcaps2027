@@ -63,6 +63,7 @@ At least one author of each accepted paper must register and present in person. 
 ## Steering committee
 
 - **Weisong Shi**, University of Delaware
+- **Yinhai Wang**, University of Washington
 - **Onur Altintas**, Toyota North America R&D
 
 ## TPC members

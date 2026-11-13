@@ -73,6 +73,7 @@ The workshop website at [int-lab.github.io/dcaps2027](https://int-lab.github.io/
 ## Steering committee
 
 - **Weisong Shi**, University of Delaware
+- **Yinhai Wang**, University of Washington
 - **Onur Altintas**, Toyota North America R&D
 
 ## TPC members
