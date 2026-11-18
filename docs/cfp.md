@@ -71,5 +71,6 @@ At least one author of each accepted paper must register and present in person. 
 - **Zheng Dong**, Wayne State University
 - **Ahan Kak**, Nokia Bell Labs
 - **Haoxin Wang**, Georgia State University
+- **Abhishek Chugh**, Zscaler
 
 [IEEE MOST 2027 workshop information](https://www.ieeemobility.org/workshop.html)
